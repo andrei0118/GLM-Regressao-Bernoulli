@@ -3,15 +3,15 @@
 ## Licença  
 [![NPM](https://img.shields.io/npm/l/react)]( https://github.com/andrei0118/Deteccao-fraudes-cartao/blob/master/LICENSE)
 
-## Conjunto de dados 
-## Dados de interesse: Fatores que influenciam na admissão de estudantes em Universidades Americanas
+### Conjunto de dados 
+### Dados de interesse: Fatores que influenciam na admissão de estudantes em Universidades Americanas
 
-## Variáveis explicativas: 
+### Variáveis explicativas: 
 - **GRE (Graduate Record Examination).**
 - **GPA (Grade Point Average).**
 - **Rank (Prestígio da escola do ensino médio).**
 
-## Variável resposta (admit):
+### Variável resposta (admit):
 - **0 não admissão.**
 - **1 admissão.**
 
